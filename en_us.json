@@ -289,5 +289,6 @@
   "minecraft_access.util.position_difference_right": "%s blocks right",
   "minecraft_access.util.position_difference_up": "%s blocks up",
   "minecraft_access.xp_indicator.decreased": "Player XP decreased to %s",
-  "minecraft_access.xp_indicator.increased": "Player XP increased to %s"
+  "minecraft_access.xp_indicator.increased": "Player XP increased to %s",
+  "minecraft_access.xp_indicator.increased_test_test_test": "Test Test Test"
 }
