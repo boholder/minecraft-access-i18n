@@ -243,6 +243,7 @@
   "minecraft_access.other.not_found": "Not Found",
   "minecraft_access.other.selected": "%s selected",
   "minecraft_access.other.words_connection": ", ",
+  "minecraft_access.other.words_connection_1": ", ",
   "minecraft_access.perspective.first_person": "First Person",
   "minecraft_access.perspective.third_person_back": "Third Person Back",
   "minecraft_access.perspective.third_person_front": "Third Person Front",
