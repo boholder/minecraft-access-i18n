@@ -103,6 +103,7 @@ jobs:
           cd .ci
           bash tool.sh
           cd ..
+          echo '111'
 
       # If (git diff-index --quiet HEAD) is 0, it means there is no change
       # ref: https://stackoverflow.com/a/3899339/11397457
